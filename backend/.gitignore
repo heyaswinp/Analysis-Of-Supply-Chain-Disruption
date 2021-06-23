@@ -1,0 +1,14 @@
+# dependencies
+/node_modules
+
+# env file
+.env
+
+# eslintignore file
+.eslintignore
+
+# datasets
+# datasets
+
+# Ignore package lock
+package-lock.json

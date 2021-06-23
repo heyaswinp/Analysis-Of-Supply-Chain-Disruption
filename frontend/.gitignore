@@ -1,0 +1,14 @@
+# dependencies
+/node_modules
+
+# Build
+/build
+
+# env file
+.env
+
+# package-lock
+package-lock.json
+
+# debug-log
+debug.log
