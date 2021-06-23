@@ -1,0 +1,163 @@
+[{
+  "_id": {
+    "$oid": "5fae1abd76154011d0fda73f"
+  },
+  "imageURL": "https://cdn2.iconfinder.com/data/icons/user-icon-2-1/100/user_5-15-512.png",
+  "isActive": true,
+  "email": "shubhangi.yadav@sjsu.edu",
+  "name": "Aswin prasad",
+  "phone": 6692526527,
+  "dateOfBirth": "05151996",
+  "password": "$2a$10$nIQGSvCycpuy/jkvM/a4w.LNtYmYwgQD/W12nAk0jASSVbF5oCTcm",
+  "role": "user"
+},{
+  "_id": {
+    "$oid": "5fae1ad876154011d0fda740"
+  },
+  "imageURL": "https://cdn2.iconfinder.com/data/icons/user-icon-2-1/100/user_5-15-512.png",
+  "isActive": true,
+  "email": "aswin.prasad@sjsu.edu",
+  "name": "Aswin prasad",
+  "phone": 6692526527,
+  "dateOfBirth": "05151996",
+  "password": "$2a$10$q1ZS.BVzZkRxcrFKcbEsKuL2KE7SzrSld1W82CxycJwtV0RKxUz12",
+  "role": "user",
+  "jwtToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVmYWUxYWQ4NzYxNTQwMTFkMGZkYTc0MCIsImlhdCI6MTYwNTgzMjA3Mn0.7O_f2Rz1-vt5GWEaM-NmOCGp_5Jnmi2Hdt3V1_-HBT8"
+},{
+  "_id": {
+    "$oid": "5fae1b7ca99afd1356717610"
+  },
+  "imageURL": "https://cdn2.iconfinder.com/data/icons/user-icon-2-1/100/user_5-15-512.png",
+  "isActive": true,
+  "email": "aswin1.prasad@sjsu.edu",
+  "name": "Aswin prasad",
+  "phone": 6692526527,
+  "dateOfBirth": "05151996",
+  "password": "$2a$10$MGDfE3NKfbh91gAFIMAfy.DAkT57Nss5RCqRZYwcxbcNNt.kxoamG",
+  "role": "user"
+},{
+  "_id": {
+    "$oid": "5faf3124d0428a0ede907bac"
+  },
+  "imageURL": "https://cdn2.iconfinder.com/data/icons/user-icon-2-1/100/user_5-15-512.png",
+  "isActive": true,
+  "email": "aswin2.prasad@sjsu.edu",
+  "name": "Aswin prasad",
+  "phone": 6692526527,
+  "dateOfBirth": "05151996",
+  "password": "$2a$10$I/7UJUbOzOaZpOM0tFZFuOV39UFN8vHAFZ.z6MheG6gwPl1EboQ.y",
+  "role": "user"
+},{
+  "_id": {
+    "$oid": "5faf3b29d0428a0ede907baf"
+  },
+  "imageURL": "https://cdn2.iconfinder.com/data/icons/user-icon-2-1/100/user_5-15-512.png",
+  "isActive": true,
+  "email": "asd@a.com",
+  "phone": 9999999999,
+  "dateOfBirth": "2020-11-14T02:03:46.830Z",
+  "password": "$2a$10$LlSV7UUhRs/w7Qp.LuQbnOtKIILRh3NClxmyFi7BcHv2pFq9JMTb6",
+  "name": "asd asd",
+  "role": "user"
+},{
+  "_id": {
+    "$oid": "5faf3bcad0428a0ede907bb0"
+  },
+  "imageURL": "https://cdn2.iconfinder.com/data/icons/user-icon-2-1/100/user_5-15-512.png",
+  "isActive": true,
+  "email": "asd@a1.com",
+  "phone": 9999999999,
+  "dateOfBirth": "2020-11-14T02:03:46.830Z",
+  "password": "$2a$10$r3056oeuZ.29PD8C4DnvauT6YOMr9kR/9LojV48DafZaL2Xbm68ky",
+  "name": "asd asd",
+  "role": "user"
+},{
+  "_id": {
+    "$oid": "5faf3c60d0428a0ede907bb1"
+  },
+  "imageURL": "https://cdn2.iconfinder.com/data/icons/user-icon-2-1/100/user_5-15-512.png",
+  "isActive": true,
+  "email": "asd@a11.com",
+  "phone": 1234567890,
+  "dateOfBirth": "2020-11-14T02:09:31.026Z",
+  "password": "$2a$10$Ppt6VzWSDYDE9ZgHAtnu8OXe54AuqxDBiFdjyHTjU6fSXJMfHEeWO",
+  "name": "asd asd",
+  "role": "user"
+},{
+  "_id": {
+    "$oid": "5faf3d25d0428a0ede907bb2"
+  },
+  "imageURL": "https://cdn2.iconfinder.com/data/icons/user-icon-2-1/100/user_5-15-512.png",
+  "isActive": true,
+  "email": "asdasd@a.com",
+  "phone": 1234567890,
+  "dateOfBirth": "2020-11-14T02:12:47.430Z",
+  "password": "$2a$10$vrwJ4o3LzAP8lvacyIakk.Jv31BuBYqk7D4YE8Fyknzlg/IoTx282",
+  "name": "asd asd",
+  "role": "user"
+},{
+  "_id": {
+    "$oid": "5fb74435bfb035c295330c44"
+  },
+  "imageURL": "https://cdn2.iconfinder.com/data/icons/user-icon-2-1/100/user_5-15-512.png",
+  "isActive": true,
+  "email": "farha.kauser@sjsu.edu",
+  "phone": 2132849324,
+  "dateOfBirth": "2020-11-22T04:20:57.472Z",
+  "password": "$2b$10$cpN4aV/e4gfFXNgqYVuSjOVYC5GM1JczubOv5HIV1oZEIfePxztcu",
+  "name": "Farha Kauser",
+  "role": "user",
+  "jwtToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVmYjc0NDM1YmZiMDM1YzI5NTMzMGM0NCIsImlhdCI6MTYxNzI0ODg3NH0.BAjEum3oIeW55fCC3TCTmvGFWoSZ084PlsGsoWOyfbA"
+},{
+  "_id": {
+    "$oid": "5fbb711fe446b5828c0e4610"
+  },
+  "imageURL": "https://cdn2.iconfinder.com/data/icons/user-icon-2-1/100/user_5-15-512.png",
+  "isActive": true,
+  "email": "jayasurya1796@gmail.com",
+  "phone": 6696696690,
+  "dateOfBirth": "2020-11-03T08:19:25.437Z",
+  "password": "$2b$10$f6gs3grAiFQLkBDvmMpUcOHS06.ImL8HUhjqiyX6RJ.Z/IvrezEMK",
+  "name": "Jayasurya Pinaki",
+  "role": "user",
+  "jwtToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVmYmI3MTFmZTQ0NmI1ODI4YzBlNDYxMCIsImlhdCI6MTYwNjc1OTMxMX0.8xpK1QsHjWm5N_irAr28QwN0MqaP_x9fGgzXuw0suWE"
+},{
+  "_id": {
+    "$oid": "5fbebdd8f93366bed4aa39e4"
+  },
+  "imageURL": "https://cdn2.iconfinder.com/data/icons/user-icon-2-1/100/user_5-15-512.png",
+  "isActive": true,
+  "email": "shubhangiyadav0612@gmail.com",
+  "phone": 6692389918,
+  "dateOfBirth": "1994-12-06T20:25:38.576Z",
+  "password": "$2b$10$ClKboxXt24R5BsDs3w6f6.FuRVrMNx5ukNOYLAqufwCaAJmEpDB4u",
+  "name": "Shubhangi Yadav",
+  "role": "user",
+  "jwtToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVmYmViZGQ4ZjkzMzY2YmVkNGFhMzllNCIsImlhdCI6MTYyMTAzNjExMH0.DDTsN4exNNhkjx8Xcj4SxMuBjF4R33ILWGA3kZCDGwk"
+},{
+  "_id": {
+    "$oid": "5fc071ff60add4123f0a58a3"
+  },
+  "imageURL": "https://cdn2.iconfinder.com/data/icons/user-icon-2-1/100/user_5-15-512.png",
+  "isActive": true,
+  "email": "aswincweety@gmail.com",
+  "phone": 6692526527,
+  "dateOfBirth": "2020-11-27T03:26:49.992Z",
+  "password": "$2b$10$KyuOdv3SLh/s5mEdapN36.sZ9SPFj48f9Vf7dCNqYS.soBQNay62C",
+  "name": "Aswin Prasad",
+  "role": "user",
+  "jwtToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVmYzA3MWZmNjBhZGQ0MTIzZjBhNThhMyIsImlhdCI6MTYxNzYzMTMwN30.jNWOBzRYvWiHoKoO6FGqPik_N10S1Tb2Fu7bWeFLofQ"
+},{
+  "_id": {
+    "$oid": "603958f4d878ff32bce1e272"
+  },
+  "imageURL": "https://cdn2.iconfinder.com/data/icons/user-icon-2-1/100/user_5-15-512.png",
+  "isActive": true,
+  "email": "jayasurya.pinaki@sjsu.edu",
+  "phone": 6692319683,
+  "dateOfBirth": "2021-02-23T20:24:05.031Z",
+  "password": "$2b$10$YBPkE9Me2pIQKnnYSgeqqOKgbkx6kBsXWm9IpuA2kMuYmca5Vi8p6",
+  "name": "Jayasurya Pinaki",
+  "role": "user",
+  "jwtToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYwMzk1OGY0ZDg3OGZmMzJiY2UxZTI3MiIsImlhdCI6MTYxNDM3MTA3N30.ye8ePdo8ktcYpYNeYfVJFrpJODNc5sn66Ic8bquiaaU"
+}]
